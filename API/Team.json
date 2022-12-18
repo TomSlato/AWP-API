@@ -1,0 +1,10 @@
+{
+    "_id": "57a1a8d8c334490c73b2856f",
+    "name": "OfficeR&D",
+    "email": "info@officernd.com",
+    "description": "Coworking management platform for prosperous communities and efficient workspaces",
+    "properties": {
+      "customProperty": "customId"
+    }
+  }
+  
